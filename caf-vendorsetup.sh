@@ -10,4 +10,4 @@ add_lunch_combo du_potter-user
 add_lunch_combo du_potter-userdebug
 add_lunch_combo du_tenderloin-user
 add_lunch_combo du_tenderloin-userdebug
-add_lunch_combo du_h918_userdebug
+add_lunch_combo du_h918
